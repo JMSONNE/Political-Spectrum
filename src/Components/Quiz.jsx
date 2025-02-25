@@ -8,10 +8,10 @@ export const Quiz = () => {
 
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [isDone, setIsDone] = useState(false);
-    const [typeCount, setTypeCount] = useState(new Map([
-        ["A", 0], ["E", 0],
-        ["L", 0], ["R", 0]
-    ]));
+    const [typeCount, setTypeCount] = useState([
+        { "A": 0 }, { "E": 0 },
+        { "L": 0 }, { "R": 0 }
+    ]);
 
     const handleQuestions = () => {
         setCurrentQuestion((prevQuestion) => {
