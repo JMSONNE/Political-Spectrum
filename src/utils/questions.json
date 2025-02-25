@@ -1,0 +1,47 @@
+[
+    {
+        "category": "A/E",
+        "question": "The government should have the power to monitor all private communications to prevent terrorism and crime.",
+        "answers": 
+            [
+                {"text": "Agree", "lean": "Authoritarian"},
+                {"text": "Disagree", "lean": "Egalitarian"}
+            ]
+    },
+    {
+        "category": "A/E",
+        "question": "All individuals should have equal access to education, healthcare, and other essential services, regardless of their socio-economic status.",
+        "answers":
+            [
+                {"text": "Agree", "lean": "Egalitarian"},
+                {"text": "Disagree", "lean": "Authoritarian"}
+            ]
+    },
+    {
+        "category": "A/E",
+        "question": "The state should have the authority to enforce strict laws and regulations to maintain social order.",
+        "answers":
+            [
+                {"text": "Agree", "lean": "Authoritarian"},
+                {"text": "Disagree", "lean": "Egalitarian"}
+            ]
+    },
+    {
+        "category": "A/E",
+        "question": "Everyone should be treated equally under the law, regardless of their background or status.",
+        "answers":
+            [
+                {"text": "Agree", "lean": "Egalitarian"},
+                {"text": "Disagree", "lean": "Authoritarian"}
+            ]
+    },
+    {
+        "category": "A/E",
+        "question": "The government should have the power to censor media and information to protect national security and public morality.",
+        "answers":
+            [
+                {"text": "Agree", "lean": "Authoritarian"},
+                {"text": "Disagree", "lean": "Egalitarian"}
+            ]
+    }
+]
