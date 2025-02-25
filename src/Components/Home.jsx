@@ -1,6 +1,11 @@
 import React from 'react'
+import { useState, useEffect } from 'react';
 
 export const Home = ({ handleStart }) => {
+
+
+
+
     return (
         <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column' }}>
             <h1 style={{ padding: '1rem', fontFamily: 'roboto', borderBottom: '1px solid black', textAlign: 'center' }}>
